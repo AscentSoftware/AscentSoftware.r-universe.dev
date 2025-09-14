@@ -2,5 +2,9 @@
   {
     "package": "dtlg.data",
     "url": "https://github.com/AscentSoftware/dtlg.data"
+  },
+  {
+    "package": "dtlg",
+    "url": "https://github.com/AscentSoftware/dtlg"
   }
 ]
